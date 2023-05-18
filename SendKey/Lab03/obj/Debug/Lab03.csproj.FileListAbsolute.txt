@@ -1,0 +1,157 @@
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.AssemblyReference.cache
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.SuggestedBindingRedirects.cache
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\obj\Debug\Lab03.Bai1.Main.resources
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\obj\Debug\Lab03.Bai1.UDPClient.resources
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\obj\Debug\Lab03.Main.resources
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\obj\Debug\Lab03.Bai1.UDPSever.resources
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\bin\Debug\Lab03.exe.config
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\bin\Debug\Lab03.exe
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\bin\Debug\Lab03.pdb
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\obj\Debug\Lab03.exe
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\obj\Debug\Lab03.pdb
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\obj\Debug\Lab03.Bai2.Main.resources
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\obj\Debug\Lab03.Bai3.Client.resources
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\obj\Debug\Lab03.Bai3.Server.resources
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\obj\Debug\Lab03.Bai3.Main.resources
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\obj\Debug\Lab03.Bai4.Client.Client.resources
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\obj\Debug\Lab03.Bai4.Main.resources
+C:\github\21520682-LamHaiDang\ThucHanh3\Lab03\obj\Debug\Lab03.Bai4.Server.Server.resources
+C:\github\21522292_21520682\ThucHanh3\Lab03\bin\Debug\Lab03.exe.config
+C:\github\21522292_21520682\ThucHanh3\Lab03\bin\Debug\Lab03.exe
+C:\github\21522292_21520682\ThucHanh3\Lab03\bin\Debug\Lab03.pdb
+C:\github\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.AssemblyReference.cache
+C:\github\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.SuggestedBindingRedirects.cache
+C:\github\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Bai1.Main.resources
+C:\github\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Bai1.UDPClient.resources
+C:\github\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Bai1.UDPSever.resources
+C:\github\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Bai2.Main.resources
+C:\github\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Bai3.Client.resources
+C:\github\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Bai3.Main.resources
+C:\github\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Bai3.Server.resources
+C:\github\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Bai4.Client.Client.resources
+C:\github\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Bai4.Main.resources
+C:\github\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Bai4.Server.Server.resources
+C:\github\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Main.resources
+C:\github\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+C:\github\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\github\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\github\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.exe
+C:\github\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.pdb
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682\ThucHanh3\Lab03\bin\Debug\Lab03.exe.config
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682\ThucHanh3\Lab03\bin\Debug\Lab03.exe
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682\ThucHanh3\Lab03\bin\Debug\Lab03.pdb
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Bai1.Main.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Bai1.UDPClient.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Bai1.UDPSever.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Bai2.Main.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Bai3.Client.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Bai3.Main.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Bai3.Server.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Bai4.Client.Client.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Bai4.Server.Server.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Main.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.exe
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.pdb
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682\ThucHanh3\Lab03\obj\Debug\Lab03.Bai4.Options.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682_21522316\ThucHanh3\Lab03\bin\Debug\Lab03.exe.config
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682_21522316\ThucHanh3\Lab03\bin\Debug\Lab03.exe
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682_21522316\ThucHanh3\Lab03\bin\Debug\Lab03.pdb
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai1.Main.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai1.UDPClient.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai1.UDPSever.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai2.Main.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai3.Client.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai3.Main.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai3.Server.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai4.Client.Client.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai4.Options.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai4.Server.Server.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Main.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.exe
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.pdb
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\bin\Debug\Lab03.exe.config
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\bin\Debug\Lab03.exe
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\bin\Debug\Lab03.pdb
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.AssemblyReference.cache
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.SuggestedBindingRedirects.cache
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai1.Main.resources
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai1.UDPClient.resources
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai1.UDPSever.resources
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai2.Main.resources
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai3.Client.resources
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai3.Main.resources
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai3.Server.resources
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai4.Client.Client.resources
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai4.Options.resources
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai4.Server.Server.resources
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Main.resources
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.exe
+D:\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.pdb
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\asdasdasdasds\21522292_21520682_21522316\ThucHanh3\Lab03\bin\Debug\Lab03.exe.config
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\asdasdasdasds\21522292_21520682_21522316\ThucHanh3\Lab03\bin\Debug\Lab03.exe
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\asdasdasdasds\21522292_21520682_21522316\ThucHanh3\Lab03\bin\Debug\Lab03.pdb
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\asdasdasdasds\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\asdasdasdasds\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai1.Main.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\asdasdasdasds\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai1.UDPClient.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\asdasdasdasds\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai1.UDPSever.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\asdasdasdasds\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai2.Main.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\asdasdasdasds\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai3.Client.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\asdasdasdasds\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai3.Main.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\asdasdasdasds\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai3.Server.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\asdasdasdasds\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai4.Client.Client.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\asdasdasdasds\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai4.Options.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\asdasdasdasds\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Bai4.Server.Server.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\asdasdasdasds\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Main.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\asdasdasdasds\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\asdasdasdasds\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\asdasdasdasds\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\asdasdasdasds\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.exe
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\asdasdasdasds\21522292_21520682_21522316\ThucHanh3\Lab03\obj\Debug\Lab03.pdb
+C:\github\21522292-21520682-21522316\Lab3\Lab03\bin\Debug\Lab03.exe.config
+C:\github\21522292-21520682-21522316\Lab3\Lab03\bin\Debug\Lab03.exe
+C:\github\21522292-21520682-21522316\Lab3\Lab03\bin\Debug\Lab03.pdb
+C:\github\21522292-21520682-21522316\Lab3\Lab03\obj\Debug\Lab03.csproj.AssemblyReference.cache
+C:\github\21522292-21520682-21522316\Lab3\Lab03\obj\Debug\Lab03.csproj.SuggestedBindingRedirects.cache
+C:\github\21522292-21520682-21522316\Lab3\Lab03\obj\Debug\Lab03.Bai1.Main.resources
+C:\github\21522292-21520682-21522316\Lab3\Lab03\obj\Debug\Lab03.Bai1.UDPClient.resources
+C:\github\21522292-21520682-21522316\Lab3\Lab03\obj\Debug\Lab03.Bai1.UDPSever.resources
+C:\github\21522292-21520682-21522316\Lab3\Lab03\obj\Debug\Lab03.Bai2.Main.resources
+C:\github\21522292-21520682-21522316\Lab3\Lab03\obj\Debug\Lab03.Bai3.Client.resources
+C:\github\21522292-21520682-21522316\Lab3\Lab03\obj\Debug\Lab03.Bai3.Main.resources
+C:\github\21522292-21520682-21522316\Lab3\Lab03\obj\Debug\Lab03.Bai3.Server.resources
+C:\github\21522292-21520682-21522316\Lab3\Lab03\obj\Debug\Lab03.Bai4.Client.Client.resources
+C:\github\21522292-21520682-21522316\Lab3\Lab03\obj\Debug\Lab03.Bai4.Options.resources
+C:\github\21522292-21520682-21522316\Lab3\Lab03\obj\Debug\Lab03.Bai4.Server.Server.resources
+C:\github\21522292-21520682-21522316\Lab3\Lab03\obj\Debug\Lab03.Main.resources
+C:\github\21522292-21520682-21522316\Lab3\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+C:\github\21522292-21520682-21522316\Lab3\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\github\21522292-21520682-21522316\Lab3\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\github\21522292-21520682-21522316\Lab3\Lab03\obj\Debug\Lab03.exe
+C:\github\21522292-21520682-21522316\Lab3\Lab03\obj\Debug\Lab03.pdb
+C:\Study\Crypto\ecdh\Lab3\Lab03\bin\Debug\Lab03.exe.config
+C:\Study\Crypto\ecdh\Lab3\Lab03\bin\Debug\Lab03.exe
+C:\Study\Crypto\ecdh\Lab3\Lab03\bin\Debug\Lab03.pdb
+C:\Study\Crypto\ecdh\Lab3\Lab03\obj\Debug\Lab03.csproj.AssemblyReference.cache
+C:\Study\Crypto\ecdh\Lab3\Lab03\obj\Debug\Lab03.csproj.SuggestedBindingRedirects.cache
+C:\Study\Crypto\ecdh\Lab3\Lab03\obj\Debug\Lab03.Main.resources
+C:\Study\Crypto\ecdh\Lab3\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+C:\Study\Crypto\ecdh\Lab3\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\Study\Crypto\ecdh\Lab3\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Study\Crypto\ecdh\Lab3\Lab03\obj\Debug\Lab03.exe
+C:\Study\Crypto\ecdh\Lab3\Lab03\obj\Debug\Lab03.pdb
+C:\Study\Crypto\ecdh\Lab3\Lab03\obj\Debug\Lab03.Client.Client.resources
+C:\Study\Crypto\ecdh\Lab3\Lab03\obj\Debug\Lab03.Server.Server.resources
